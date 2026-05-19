@@ -21,3 +21,7 @@ public:
         cout << "Hello I am a Function from derived Class";
     }
 };
+
+int main(){
+    
+}
