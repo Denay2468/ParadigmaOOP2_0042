@@ -7,3 +7,10 @@ public:
         cout << "Message from person" << endl;
     }
 };
+
+class Joko : public Person {
+public:
+    void message() {
+        cout << "Message from Joko" << endl;
+    }
+};
