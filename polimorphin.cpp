@@ -34,4 +34,6 @@ int main(){
     a.Person::message();
     b.Person::message();
 
+    return 0;
+
 }
