@@ -7,3 +7,10 @@ public:
         cout << "Hello I am a Function from base class";
     }
 };
+
+class BaseClass1 {
+public:
+    virtual void introduction() {
+        cout << "Hello I am a Function from base class";
+    }
+};
