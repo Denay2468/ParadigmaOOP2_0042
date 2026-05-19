@@ -23,5 +23,8 @@ public:
 };
 
 int main(){
-    
+    DerivedClass a;
+    a.introduction();
+
+    return 0;
 }
