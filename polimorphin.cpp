@@ -23,5 +23,15 @@ public:
 };
 
 int main(){
-    
+    Person *object;
+    Joko a;
+    Lia b;
+
+    object = &a;
+    object->message();
+    object = &b;
+    object->message();
+    a.Person::message();
+    b.Person::message();
+
 }
