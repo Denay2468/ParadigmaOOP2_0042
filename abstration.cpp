@@ -17,3 +17,7 @@ public:
         cout << "y = " << y << endl;
     }
 };
+
+int main(){
+    
+}
