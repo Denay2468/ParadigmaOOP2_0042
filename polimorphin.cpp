@@ -21,3 +21,7 @@ public:
         cout << "Message from Lia" << endl;
     }
 };
+
+int main(){
+    
+}
